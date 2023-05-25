@@ -5,7 +5,7 @@
 - Install [`live-server`](https://www.npmjs.com/package/live-server) on your machine if its not the case
 - Clone this repository somewhere on your filesystem
   ```bash
-  $> git clone https://github.com/Tazaf/masrad-dfa-js-module-practice.git
+  $> git clone https://github.com/caa-pjt/masrad-dfa-js-module-practice.git
   ```
 - Go to the cloned directory
   ```bash
